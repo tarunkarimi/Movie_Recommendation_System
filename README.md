@@ -606,11 +606,11 @@ Have an idea? Open an issue with:
 ### 👨‍💻 **Developer Contact**
 For questions, suggestions, collaboration, or support:
 
-- 📫 **Email**: [skg.13.edu@gmail.com](mailto:skg.13.edu@gmail.com)
-- 💼 **LinkedIn**: [skg1312](https://linkedin.com/in/skg1312)
-- 🐙 **GitHub**: [skg1312](https://github.com/skg1312)
-- 💬 **Issues**: [GitHub Issues](https://github.com/skg1312/Movie_Recommendation_System/issues)
-- 📖 **Discussions**: [GitHub Discussions](https://github.com/skg1312/Movie_Recommendation_System/discussions)
+- 📫 **Email**: [taruntejakarimi@gmail.com](mailto:taruntejakarimi@gmail.com)
+- 💼 **LinkedIn**: [Tarun Teja Karimi](https://www.linkedin.com/in/tarun-teja-karimi-689785214/)
+- 🐙 **GitHub**: [tarunkarimi](https://github.com/tarunkarimi)
+- 💬 **Issues**: [GitHub Issues](https://github.com/tarunkarimi/Movie_Recommendation_System/issues)
+- 📖 **Discussions**: [GitHub Discussions](https://github.com/tarunkarimi/Movie_Recommendation_System/discussions)
 
 ### 🆘 **Getting Help**
 - **📚 Documentation**: Check the comprehensive guides in this repository
@@ -654,7 +654,3 @@ Special thanks to:
 ⭐ **If you found this project helpful, please consider giving it a star!** ⭐
 
 *Your support helps others discover this project and motivates continued development.*
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
